@@ -6,7 +6,8 @@
   gap: 1.2rem;
 }
 #main-nav ul,
-#main-nav img {
+#main-nav img,
+#main-nav a {
   justify-self: center;
 }
 
